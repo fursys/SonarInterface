@@ -1,0 +1,9 @@
+C:\skuksenk\_Quadro\CS_projects\Sonar\Sonar\bin\Debug\Sonar.exe.config
+C:\skuksenk\_Quadro\CS_projects\Sonar\Sonar\bin\Debug\Sonar.exe
+C:\skuksenk\_Quadro\CS_projects\Sonar\Sonar\bin\Debug\Sonar.pdb
+C:\skuksenk\_Quadro\CS_projects\Sonar\Sonar\obj\Debug\Sonar.csprojResolveAssemblyReference.cache
+C:\skuksenk\_Quadro\CS_projects\Sonar\Sonar\obj\Debug\Sonar.Form1.resources
+C:\skuksenk\_Quadro\CS_projects\Sonar\Sonar\obj\Debug\Sonar.Properties.Resources.resources
+C:\skuksenk\_Quadro\CS_projects\Sonar\Sonar\obj\Debug\Sonar.csproj.GenerateResource.Cache
+C:\skuksenk\_Quadro\CS_projects\Sonar\Sonar\obj\Debug\Sonar.exe
+C:\skuksenk\_Quadro\CS_projects\Sonar\Sonar\obj\Debug\Sonar.pdb
